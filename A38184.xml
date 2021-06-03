@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Jovis, I Junii, 1643.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38184</idno><idno type="EEBO-CITATION">9362556</idno>
+  <idno type="VID">42846</idno>
+  <idno type="EEBO-PROQUEST">2248514871</idno>
+  
+            <idno type="STC">Wing E2476</idno>
+            <idno type="STC">ESTC R26124</idno>
+            <idno type="OCLC">09362556</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Jovis, I Junii, 1643.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>l643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order of Parliament naming committees to execute the Ordinance for raising money for maintenance of the Parliamentary army.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42846:1"/>
+            <pb n="1" facs="tcp:42846:1"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 1. Junii, 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in the Ordinance of both Houses of Par<g ref="char:EOLhyphen"/>liament lately passed, for the speedy raising and le<g ref="char:EOLhyphen"/>vying of money, for the maintenance of the Ar<g ref="char:EOLhyphen"/>my rais'd by Parliament by taxing such as have not contributed, or lent at all towards the maintenance of the said Army, or if they have, yet not in any reasonable measure answerable to their estates, divers persons therein appoin<g ref="char:EOLhyphen"/>ted Committees are misnamed, and divers persons fit to further the Execution of the same Ordinance are omitted to be therein na<g ref="char:EOLhyphen"/>med to be Committees, whereby the service (if it be not remedied) is like to be much re<g ref="char:EOLhyphen"/>tarded and hindred. It is therefore ordered and
+<pb n="2" facs="tcp:42846:2"/> Ordained by the Lords and Commons in Parliament, that the severall persons here un<g ref="char:EOLhyphen"/>der-named, shall be Committees for the exe<g ref="char:EOLhyphen"/>cuting of the said Ordinance, in the severall counties, cities, and places, for which they are hereby herein nominated &amp; appointed, <hi>viz.</hi>)</p>
+            <p>
+               <label>Suffolk.</label> For the County of Suff'. Sir <hi>Edmond Bacon,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Playters,</hi> Knights and Baronets, Sir <hi>Butts Bacon,</hi> Sir <hi>William Springe</hi> Baronets, Sir <hi>Roger North,</hi> Sir <hi>William Soame,</hi> Sir <hi>Nathaniel Barnardiston,</hi> Sir <hi>Phi<g ref="char:EOLhyphen"/>lip Parker,</hi> Sir <hi>John Wentworth,</hi> Sir <hi>Robert Brooke,</hi> Sir <hi>Thomas Barnardiston,</hi> Knights, <hi>William Heve<g ref="char:EOLhyphen"/>ningham, Maurice Barrowe, Thomas Baker, Henry North,</hi> sen. <hi>Brampton Gurdon, Henry North</hi> junior, <hi>Nicholas Bacon, Nathaniel Bacon</hi> of Freston, <hi>John Clench of</hi> Creating, <hi>Thomas Terrell, Rob. Reynolds, Francis Bacon, William Cage, John Gurdon, Ro<g ref="char:EOLhyphen"/>bert Brewster, Isaac Appleton, Nathaniel Bacon of</hi> Ipswich, <hi>William Bloyse, Thomas Cole, Richard Pe<g ref="char:EOLhyphen"/>pis, William Ryvet</hi> of Billson, <hi>John Clynch</hi> of Culpho, <hi>Theophilus Vaughan, Edmund Harvey,</hi> Esquires, <hi>Francis Brewster,</hi> and <hi>John Base, </hi> Gent.</p>
+            <p>For the Town of Ipswich, the Bayliff of the Town for the time being,<hi>Iohn Sicklemer, Richard Puplet, Iohn Al<g ref="char:EOLhyphen"/>dus</hi> Gent. <hi>Nathaniell Bacon, Ioseph Pemberton, Ro<g ref="char:EOLhyphen"/>bert Duncombe, Iacob Cale</hi> Gent.</p>
+            <p>For the Town of Bury Saint Edmonds, the Alderman of the Towne for the time being, <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Bright, Samu<g ref="char:EOLhyphen"/>ell
+<pb n="3" facs="tcp:42846:2"/> Moody,</hi> and <hi>Tho. Chaplyn,</hi> Gent.</p>
+            <p>For the Town of Aldeburgh, the Bayliffs of the towne for the time being,<hi>Squire Bench,</hi> and <hi>Thomas Iohn<g ref="char:EOLhyphen"/>son,</hi> Gent.</p>
+            <p>
+               <label>Kent▪</label> For the county of Kent, Sir <hi>Richard Harders</hi> Baronet, Sir <hi>William Springate,</hi> Sir <hi>Edmond Moninge</hi> Baronet, Sir <hi>Iames Oxenden, Thomas Blechenden, Iohn Boys</hi> of Wingham, <hi>Thomas Westrowe, Lambert Godfrey, Mark Dixwell, Thomas Brodenoxe, Thomas Blen<g ref="char:EOLhyphen"/>chenden, Thomas Dike, Richard Beale</hi> Esquires, added to the Committee for sequestrations.</p>
+            <p>
+               <label>Bedford.</label> For the County of Bedford, Sir <hi>Beacham St. Iohn,</hi> Knight, Sir <hi>Thomas Alston</hi> Knight and Baronet, Sir <hi>Iohn Burgoyne,</hi> Baronet, Sir <hi>Oliver Luke,</hi> Sir <hi>Samuell Luke,</hi> Sir <hi>Roger Burgoyne</hi> Knights, Sir <hi>William Bry<g ref="char:EOLhyphen"/>ers</hi> Knight, <hi>William Duncombe, Robert Stanton, Thomas Rolte, Samuell Browne, Iames Beverley, Thomas Sadler, Lewis Munnox, Iohn Neale, Richard Cockayne, Richard Edwards, Humphry Fish, Iohn Vaxe, Edward Cater, Ralph Snagge, Francis Astrey</hi> Esquires, <hi>Peter Neale, Ralph Mallory,</hi> and <hi>Edmund Iones,</hi> Gent. <hi>Iohn Wells</hi> of Rath,<hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Bagshaw</hi> of Basmeade, Gent.</p>
+            <p>The Major of the Towne of Bedford, for the time being, <hi>Francis Banister,</hi> Doctor of Physick, <hi>Iohn Wells, Iohn Sibley, Iohn Smith, Peter Neale,</hi> and <hi>Iohn Nodes,</hi> Gent.</p>
+            <p>
+               <label>Leicester</label> For Leicestershire▪ <hi>Arthur Stavely, Thomas Cotton, Francis Hacker, Iohn Goodman</hi> Esq;</p>
+            <p>
+               <label>Notting<g ref="char:EOLhyphen"/>ham.</label> For the County of Nottingham, <hi>Iohn Hutchinson, Gervas Pigott</hi> Esquires.</p>
+            <pb n="4" facs="tcp:42846:3"/>
+            <p>For the Towne of Nottingham, <hi>Iames Chadwick,</hi> Esquire.</p>
+            <p>
+               <label>Norwich</label> For the City and county of the City of Norwich, <hi>Iohn Thacker, Adrean Parmitor, Christopher Barret, Tho<g ref="char:EOLhyphen"/>mas Barker, Iohn Tooly</hi> Esquires, <hi>Henry Watts, and Livewell Sherewood,</hi> Aldermen.</p>
+            <p>
+               <label>Glocester</label> For Glocestershire, Sir <hi>Iohn Seamer,</hi> Sir <hi>Robert Cooke</hi> Knights, <hi>Edward Stephens, Iohn Cothering<g ref="char:EOLhyphen"/>ton, Iohn George, Iohn Stephens, Samuell Cothe<g ref="char:EOLhyphen"/>rington, Silvanus Wood,</hi> and <hi>Henry Stephens</hi> Esq;.</p>
+            <p>
+               <label>Glocester city.</label> For the City and county of the City of Glosester, the Major for the time being, <hi>Dennis Wise, William Single<g ref="char:EOLhyphen"/>ton, Thomas Purge, Luke Nurse</hi> Aldermen, <hi>Henry Stephens, Silvanus Wood, William Shephard and William Selwyn </hi> Esquires.</p>
+            <p>Committees for the county of Glocester, for sequestring Delinquents Estates, <hi>William Ginse, William Sell<g ref="char:EOLhyphen"/>wyn</hi> Esqui<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es.</p>
+            <p>The Major for the time being of the city of Glocester, <hi>Iohn Hanbury, Iohn Fetti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>place,</hi> Esq; <hi>Iohn Gifford, William Magowe, William Window, Robert Back<g ref="char:EOLhyphen"/>house, Stephen Fowler, Grimbald Pauncefate, Will: Willson, William Parrey, </hi> Gent.</p>
+            <p>
+               <label>Essex.</label> For the County of Essex, Sir <hi>Harbottle Grimston,</hi> Knight and Baronet, Sir <hi>Thomas Cheek</hi> Knight, <hi>Will: Massam, Henry Mildmey of</hi> Graves, <hi>Nath. Bacon, Ro<g ref="char:EOLhyphen"/>bert Smith, Thomas Cooke, Henry Far, Carey Mild<g ref="char:EOLhyphen"/>may, Robert Wiseman, of</hi> Magland, <hi>Robert Bourne, Iohn Meed, Iohn Eden, Iohn Pike, Thomas Clapton, Arthur Barnardiston, Isaac Allen,</hi> of Hasley, <hi>William Atwood, Pet. Whitcomb, Ed: Berkhead, Ioh. Brook,
+<pb n="5" facs="tcp:42846:3"/> Hen: Wiseman, John Eldred, Rob: Young, John Wat<g ref="char:EOLhyphen"/>kins, Francis Stonhard, </hi> Esquires, <hi>John Sorrell, Ieremy Aylet, William Collard, Robert Crane, Robert Cal<g ref="char:EOLhyphen"/>thrope, John Alliston, William Harlackenden, Isaac Wyncoll, Samuell Plume, Iohn Fennynge, George Thorogood, Thomas Aylet</hi> of Keldon, Doctor <hi>Reade</hi> of Berdanger▪ <hi>Thomas Adams</hi> of Baxted, <hi>Richard Wise<g ref="char:EOLhyphen"/>man, William Turner </hi> of Wymbishe, <hi>Iohn Thurgood</hi> of Walden, <hi>Francis Williamson</hi> of Walden, and <hi>Thomas Cook</hi> Gent.</p>
+            <p>
+               <label>Essex.</label> Committees added by the Lords and Commons to the Or<g ref="char:EOLhyphen"/>dinance, for sequestring of Delinquents Estates in the Coun<g ref="char:EOLhyphen"/>tie of Essex: <hi>Henry Myldemay</hi> of Craces, <hi>Nathaniell Bacon, Henry Farr, Cary Mildmaye,</hi> Doctor <hi>Reade</hi> of Birdanger, <hi>Iohn Eden, Thomas Clapton, Iohn Brook, Iohn Eldred, Iohn Pyke, Francis Stonenard, Io: Wat<g ref="char:EOLhyphen"/>kins, George Thorogood,</hi> Esquires, <hi>Thomas Cook, William Turner</hi> of Wimb she,<hi>Iohn Alliston, William Harlackenden, Thomas Adams</hi> of Thursted,<hi>Isaac Win<g ref="char:EOLhyphen"/>call, Samuel Plume, Iohn Fenninge,</hi> and <hi>Thomas Ay<g ref="char:EOLhyphen"/>let</hi> of Kelden Gent.</p>
+            <p>For the Town of Colchester, <hi>Harbottle Grimston,</hi> Es<g ref="char:EOLhyphen"/>quire, Recorder there, Master <hi>Iohn Langton,</hi> Master <hi>Rob: Buxton</hi> Gent. Master <hi>Ward</hi> Alderman, <hi>Tho: Johnson.</hi>
+            </p>
+            <p>
+               <label>Middle<g ref="char:EOLhyphen"/>sex.</label> For the County of Middlesex, Sir <hi>Thomas Fowler</hi> Baronet, Sir <hi>Robert Barkham</hi> Knight,<hi>Iohn Huxly, Thomas Swallow,</hi> Sir <hi>Giles Overbury, Iohn Brown,</hi> Esq; Cler. Parl.</p>
+            <p>
+               <label>Dorset.</label> For the County of Dorset, <hi>Richard Broddreppe, Ri<g ref="char:EOLhyphen"/>chard Rose, Iohn Henley,</hi> Esquires,<hi>Thomas Cheek▪</hi> and <hi>William Kerridge,</hi> Gent.</p>
+            <pb n="6" facs="tcp:42846:4"/>
+            <p>
+               <label>Berks.</label> For the county of Berks, Sir <hi>George Stonehouse</hi> Ba<g ref="char:EOLhyphen"/>ronet, <hi>Edmond Dunch</hi> Esq;.</p>
+            <p>
+               <label>Somerset.</label> For the county of Sommerset, <hi>Clement Walker, Iohn Pyne, Henry Samford, Iohn Ashe</hi> Esq;.</p>
+            <p>
+               <label>Lincoln.</label> For the parts of <hi>Holland</hi> in the county of Lincolne, Sir <hi>Thomas Trolope,</hi> Baronet, <hi>Morris Cave,</hi> Esquire, <hi>Iohn Browne, Captain Escotte,</hi> and <hi>Martin Iohnson</hi> Gent.</p>
+            <p>
+               <label>Hertford.</label> Committees for Sequestring of the Estates of Delin<g ref="char:EOLhyphen"/>quents in the county of Hertford, <hi>Edward Atkins</hi> Serje<g ref="char:EOLhyphen"/>ant at Law, <hi>Iohn King</hi> Doctor in Physick, <hi>Henry Meaw<g ref="char:EOLhyphen"/>tis,</hi> sen. <hi>Thomas Tooke,Gabrell Barbor, Toby Combes, Iohn Pemberton, Litton Fairecloth, Iohn Scrogg, Tho: Sadler</hi> Esq;.</p>
+            <p>The Major of Hertford for the time being, <hi>Iohn Mash, Isaac Puller, Thomas Meade, William Carter of</hi> Offley Gent. <hi>Iohn Humborston</hi> sen. Gent.</p>
+            <p>
+               <label>Hereford</label> Committees for the County of Heref. <hi>for sequestring the estates of Delinquents,</hi> Sir <hi>Iohn Kirle Baronet, Iames Kirle, Edward Harley, Martin Husbands, Am<g ref="char:EOLhyphen"/>brose Elton</hi> jun. <hi>Henry Iones of</hi> Maynson, in the Parish <hi>of</hi> Ledbury, <hi>Thomas Rawlyns</hi> Esq; <hi>Thomas Davies of Wigmore, Richard Nicholet▪ Francis Pember, Fran<g ref="char:EOLhyphen"/>cis Hill, Samuell Trettma</hi> Gent.</p>
+            <p>
+               <label>Norfolk.</label>
+               <hi>Committees for the County of Norfolk. Iames Calthrop, Sherriff of the county of Norfolk. Thomas Lincolne, of Thetford</hi> Alderman, <hi>Sir Ed<g ref="char:EOLhyphen"/>ward Barkham</hi> Knight and Baronet, <hi>William Hevening<g ref="char:EOLhyphen"/>ham, Miles Corbet, Iohn Gibbon, Philip Bedingfield, Sam. Smith, Tobias Fryar, Iames Scamblet, Robert Wilton,</hi> Esq; <hi>Henry King, Iohn Bruster, Richard
+<pb n="7" facs="tcp:42846:4"/> Harvye, Rich. Harvye, Master Russell, Robert Gooch, of</hi> Elham,<hi>Thomas Utber, William Coney, Master With, of Brodish, Iohn Berkham, Sucklin Day, Iohn Brown of</hi> Sparks, <hi>Robert Shephard, Thomas Iohnson, Iohn Iay of of</hi> Ersham, <hi>Richard Warner, of</hi> little Brand M. <hi>Walter, of</hi> Deram, <hi>Robert Ket of Wicklewood, Robert Felsham, of Sculthrop, Iohn Raymes of Ox<g ref="char:EOLhyphen"/>tron, Francis Shouldham of</hi> Fulmerston, <hi>Sam. Money of</hi> Binnum, <hi>William Gasly of</hi> Holcan, <hi>Iohn Swalter of Southcreake, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Collyns of Blackborn Abby, Iohn Vincent of Crinisham, Ieremy Blofeild of Alby, Robert Dagly of Alsham. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Clark of Gaywood, Tho: Springall of St. Maries, Robert Wood of Brook.</hi>
+            </p>
+            <p>The Major of Norwich pro tempore, William Si<g ref="char:EOLhyphen"/>monds of Norwich, Livewell Sherwood of Norwich, Aldermen.</p>
+            <p>These Persons herein named shall be Committees for the severall Counties, and places abovesaid, and shall have the same power and authority in the respe<g ref="char:EOLhyphen"/>ctive Counties and places, for which they are nomi<g ref="char:EOLhyphen"/>nated as the other Counties named in the said Ordi<g ref="char:EOLhyphen"/>nance are hereby to have.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered that these Additions be forthwith printed and published:</p>
+               <closer>
+                  <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
